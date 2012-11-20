@@ -1,0 +1,8 @@
+name: Smite
+author: TrungLam
+version: 1.0.0
+main: com.github.TrungLam.Smite
+
+commands:
+ smite:
+  description: strike target block or player
